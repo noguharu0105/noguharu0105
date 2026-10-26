@@ -1,7 +1,6 @@
 # Hi there 👋 I'm [noguharu!]
 
-[
-Let’s make the most of everything!]
+[Let’s make the most of everything!]
 
 ---
 
@@ -14,9 +13,8 @@ Let’s make the most of everything!]
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 #### Frameworks & Tools
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
