@@ -1,4 +1,4 @@
-<h1 align="left">Hi there 👋 I'm noguharu!</h1>
+<h1 align="left">Hi I'm noguharu ! 😒 </h1>
 
 <p align="left">
   <em>Let’s make the most of everything! 🔥</em>
